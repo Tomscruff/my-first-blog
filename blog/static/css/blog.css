@@ -1,0 +1,72 @@
+html {
+
+}
+
+body {
+
+	padding-left:		15px;
+	padding-right: 		15px;
+	background: 		url(../images/garden.jpg) center center fixed no-repeat;
+	background-size: 	100%;
+	background-color:	blue;
+
+}
+
+h1 a, h2 a {
+	font-family: 		'Lobster';
+	color:				#f0883e;
+}
+
+header {
+	text-align: 		center;
+	margin-top:			0;
+	padding:			20px 0px 20px 40px;
+
+}
+
+
+header h1, h1 a, h1 a:visited, h1 a:active {
+	color: 				orange;
+	font-size: 			36pt;
+	text-decoration: 	none;
+}
+
+
+
+h1, h2, h3, h4 {
+	font-family: 		'Lobster', cursive;
+}
+
+.date {
+	color:				#828282;
+}
+
+.save {
+	/* float:				right; */
+}
+
+.post-form textarea, .post-form input {
+
+	width: 80%;
+
+}
+
+.top-menu, .top-menu:hover, .top-menu:visited {
+	/* color:				#fff;
+	float:				right;
+	font-size:			26pt;
+	margin-right:		20px; */
+}
+
+.post {
+	margin:				auto;
+	width:				100%;
+	text-align: 		center;
+	border: 			solid white 3px center;
+	background-color: 	white;
+	margin-bottom: 		70px;
+}
+
+article h2 a, article h2 a:visited {
+	color:				#000;
+}
